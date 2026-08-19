@@ -84,8 +84,8 @@ uploads, and a non-repeating draw over persisted state.
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Casa Monumento · [live demo](https://casa-monumento.onrender.com)
-Management system built for a retail client. *Private repo — happy to walk through the code and
-architecture decisions in an interview.*
+Business management system for a retail client, covering sales, purchasing, installment plans,
+payments and payroll settlement. *Private repo*
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

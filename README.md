@@ -2,24 +2,24 @@
 
 <p align="center">
   <a href="https://github.com/T-Arias">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;AI+Engineer+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+LangChain;Backend+Engineer;Data+Engineer" alt="Full-Stack Engineer / AI Engineer (MCP, RAG, LangChain) / Backend Engineer / Data Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;AI+Engineer+%EF%BC%8F+MCP+%C2%B7+RAG+%C2%B7+LangChain;Backend+Engineer;Data+Engineer;Node+%C2%B7+Go+%C2%B7+React+%C2%B7+AWS" alt="Full-Stack Engineer / AI Engineer (MCP, RAG, LangChain) / Backend Engineer / Data Engineer / Node, Go, React, AWS" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/tomas-arias-karle-501052321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tomas.arias2001@gmail.com"><img src="https://img.shields.io/badge/tomas.arias2001@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:tomas.arias2001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Rosario,%20Argentina-333333?style=flat-square&logo=googlemaps&logoColor=white" alt="Rosario, Argentina" />
 </p>
 
 ---
 
 Systems Engineer with 3+ years building software end to end. I work with React and TypeScript on
-the frontend, and Node.js, Go and FastAPI on the backend, on AWS. I've led small development
-teams and made architecture decisions across the full lifecycle — data modeling, API design,
-infrastructure as code, and deployment with Docker and CI/CD. Lately my work has leaned into
-data engineering and applied AI: ETL pipelines on Fargate and Lambda, and agent tooling over
-the MCP protocol.
+the frontend, and Node.js, Go and FastAPI on the backend, on AWS. I've led a team of 2 developers
+— owning production deploy approval and onboarding — and made architecture decisions across the
+full lifecycle: data modeling, API design, infrastructure as code, and deployment with Docker and
+CI/CD. Lately my work has leaned into data engineering and applied AI: ETL pipelines on Fargate
+and Lambda that **cut cost and runtime by 17%**, and agent tooling over the MCP protocol.
 
 I also lecture on Web Development & Architectures at Universidad Abierta Interamericana.
 
@@ -38,6 +38,7 @@ I also lecture on Web Development & Architectures at Universidad Abierta Interam
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -54,7 +55,6 @@ I also lecture on Web Development & Architectures at Universidad Abierta Interam
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 **Frontend**
 
